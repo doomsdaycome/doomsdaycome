@@ -66,9 +66,3 @@ Beyond my studies, I build and program things simply because I love coding from 
 <p align="center"><a href="https://github.com/doomsdaycome"><img src="https://img.shields.io/badge/doomsdaycome-%23333333?style=for-the-badge&logo=github&logoColor=fff&labelColor=%23333333&color=%23181717" alt="GitHub" /></a>&nbsp;&nbsp;<a href="mailto:dangkhoa.lop7b2@gmail.com"><img src="https://img.shields.io/badge/dangkhoa.lop7b2%40gmail.com-%23333333?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=%23333333&color=%23EA4335" alt="Gmail" /></a>&nbsp;&nbsp;<a href="https://www.facebook.com/pham.khoa.273656?locale=vi_VN"><img src="https://img.shields.io/badge/Pham_Khoa-%23333333?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=%23333333&color=%231877F2" alt="Facebook" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@jacobnotpro"><img src="https://img.shields.io/badge/jacobnotpro-%23333333?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=%23333333&color=%23FF0000" alt="YouTube" /></a></p>
 
 ## Projects
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md" />
-  </a>
-</p>
