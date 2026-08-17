@@ -37,16 +37,16 @@ I am currently an Information Technology student at the [University of Science](
 Beyond my studies, I build and program things simply because I love coding from the bottom of my heart, and I am deeply in love with configuring and tweaking my Linux machine. When I step away from the terminal, I spend most of my time listening to music, doing calculus and gaming. Mostly grinding anime Gacha games, chess.com, playing Counter-Strike 2, or pushing through levels in Geometry Dash.
 
 <details>
-  <summary><b>Workspaces</b></summary>
+  <summary><b><font size="+1">Workspaces</font></b></summary>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/Ryzen_5_5625U-%23333333?style=for-the-badge&logo=amd&logoColor=ED1C24&labelColor=%23333333&color=%23ED1C24" />
-    <img src="https://img.shields.io/badge/RTX_3050_Mobile-%23333333?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=%23333333&color=%2376B900" />
-    <img src="https://img.shields.io/badge/RAM-16GB-%23333333?style=for-the-badge&logo=ram&logoColor=00599C&labelColor=%23333333&color=%2300599C" />
-    <img src="https://img.shields.io/badge/Arch_Linux-%23333333?style=for-the-badge&logo=arch-linux&logoColor=1793D1&labelColor=%23333333&color=%231793D1" />
+    <img src="https://img.shields.io/badge/Ryzen_5_5625U-%23333333?style=for-the-badge&logo=amd&logoColor=ED1C24&labelColor=%23333333&color=%23ED1C24" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/RTX_3050_Mobile-%23333333?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=%23333333&color=%2376B900" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/RAM-16GB-%23333333?style=for-the-badge&logo=ram&logoColor=00599C&labelColor=%23333333&color=%2300599C" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Arch_Linux-%23333333?style=for-the-badge&logo=arch-linux&logoColor=1793D1&labelColor=%23333333&color=%231793D1" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Hyprland-%23333333?style=for-the-badge&logo=hyprland&logoColor=00B294&labelColor=%23333333&color=%2300B294" /><br/>
-    <img src="https://img.shields.io/badge/Shell-Fish-%23333333?style=for-the-badge&logo=fish&logoColor=4670AC&labelColor=%23333333&color=%234670AC" />
-    <img src="https://img.shields.io/badge/Editor-Neovim-%23333333?style=for-the-badge&logoColor=57A143&labelColor=%23333333&color=%2357A143" />
+    <img src="https://img.shields.io/badge/Shell-Fish-%23333333?style=for-the-badge&logo=fish&logoColor=4670AC&labelColor=%23333333&color=%234670AC" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Editor-Neovim-%23333333?style=for-the-badge&logoColor=57A143&labelColor=%23333333&color=%2357A143" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Font-JetBrains_Mono_Nerd-%23333333?style=for-the-badge&logoColor=FC1C75&labelColor=%23333333&color=%23FC1C75" />
   </p>
 </details>
@@ -63,4 +63,12 @@ Beyond my studies, I build and program things simply because I love coding from 
 
 ## Contacts
 
+<p align="center"><a href="https://github.com/doomsdaycome"><img src="https://img.shields.io/badge/doomsdaycome-%23333333?style=for-the-badge&logo=github&logoColor=fff&labelColor=%23333333&color=%23181717" alt="GitHub" /></a>&nbsp;&nbsp;<a href="mailto:dangkhoa.lop7b2@gmail.com"><img src="https://img.shields.io/badge/dangkhoa.lop7b2%40gmail.com-%23333333?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=%23333333&color=%23EA4335" alt="Gmail" /></a>&nbsp;&nbsp;<a href="https://www.facebook.com/pham.khoa.273656?locale=vi_VN"><img src="https://img.shields.io/badge/Pham_Khoa-%23333333?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=%23333333&color=%231877F2" alt="Facebook" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@jacobnotpro"><img src="https://img.shields.io/badge/jacobnotpro-%23333333?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=%23333333&color=%23FF0000" alt="YouTube" /></a></p>
+
 ## Projects
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md" />
+  </a>
+</p>
