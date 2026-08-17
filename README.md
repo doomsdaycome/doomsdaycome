@@ -1,3 +1,5 @@
+[Cover](img/1500x500)
+
 <h1 align="center">Doomsday Come</h1> 
 
 <p align="center">Jacob Kolinski — Phạm Bạch Đăng Khoa</p>
