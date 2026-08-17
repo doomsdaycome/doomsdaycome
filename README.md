@@ -1,4 +1,4 @@
-[Cover](img/1500x500)
+[Cover](img/1500x500.jpg)
 
 <h1 align="center">Doomsday Come</h1> 
 
