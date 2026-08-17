@@ -8,7 +8,7 @@
 
 > *Because of a lie. An end never existed. We long since strode into THEIR shadow, each step forward one that we can never walk back...until the last blade (Life) is forged into... "Naught".*
 
-<p align="center"><i>Come to Me, Realm of the Dead. Come to Me, Flame of Self-Anihillation.</i></p>
+<p align="center"><i>Come to Me, Realm of the Dead. Come to Me, Flame of Self-Annihillation.</i></p>
 
 <p align="center">
   <a href="https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed">
@@ -24,13 +24,13 @@ I am currently an Information Technology student at the [University of Science](
   <summary><b><font size="+1">Achievements</font></b></summary>
   <br>
 
-  - **15/07/2007**: Born
-  - **02/03/2022**: 🥈 **`2nd Prize`** - *Province's Youth and Children Creativity Contest*
-  - **29/05/2022**: Graduated Secondary School
-  - **21/01/2024**: 🥇 **`1st Prize`** - *City's Science and Engineering Fair*
-  - **28/02/2025**: 🥉 **`3rd Prize`** - *City's Excellent Students in Information Technology Competition*
-  - **01/06/2025**:  Graduated High School
-  - **15/08/2025**:  Enrolled at University of Science via **`Priority Admission`** - **`Score: 29.37`**
+  - **`15/07/2007`**: Born
+  - **`02/03/2022`**: 🥈 **`2nd Prize`** - *Province's Youth and Children Creativity Contest*
+  - **`29/05/2022`**: Graduated Secondary School
+  - **`21/01/2024`**: 🥇 **`1st Prize`** - *City's Science and Engineering Fair*
+  - **`28/02/2025`**: 🥉 **`3rd Prize`** - *City's Excellent Students in Information Technology Competition*
+  - **`01/06/2025`**:  Graduated High School
+  - **`15/08/2025`**:  Enrolled at *University of Science* via **Priority Admission** - Score: **`29.37`**
 
 </details>
 
