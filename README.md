@@ -22,11 +22,12 @@ Beyond my studies, I build and program things simply because I love coding from 
 <details>
   <summary><h3>Workspace</h3></summary>
   <p align="center">
+    <img src="https://img.shields.io/badge/Windows_11-%23333333?style=for-the-badge&logoColor=0078D6&labelColor=%23333333&color=%230078D6" />
     <img src="https://img.shields.io/badge/Arch_Linux-%23333333?style=for-the-badge&logo=arch-linux&logoColor=1793D1&labelColor=%23333333&color=%231793D1" />
     <img src="https://img.shields.io/badge/Hyprland-%23333333?style=for-the-badge&logo=hyprland&logoColor=00B294&labelColor=%23333333&color=%2300B294" />
     <img src="https://img.shields.io/badge/Ryzen_5_5625U-%23333333?style=for-the-badge&logo=amd&logoColor=ED1C24&labelColor=%23333333&color=%23ED1C24" />
     <img src="https://img.shields.io/badge/RTX_3050_Mobile-%23333333?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=%23333333&color=%2376B900" />
-    <img src="https://img.shields.io/badge/RAM-16GB-%23333333?style=for-the-badge&logoColor=00599C&labelColor=%23333333&color=%2300599C" />
+    <img src="https://img.shields.io/badge/RAM-16GB-%23333333?style=for-the-badge&logoColor=00599C&labelColor=%23333333&color=%2300599C" /><br/>
     <img src="https://img.shields.io/badge/Shell-Fish-%23333333?style=for-the-badge&logoColor=4670AC&labelColor=%23333333&color=%234670AC" />
     <img src="https://img.shields.io/badge/Editor-Neovim-%23333333?style=for-the-badge&logoColor=57A143&labelColor=%23333333&color=%2357A143" />
   </p>
