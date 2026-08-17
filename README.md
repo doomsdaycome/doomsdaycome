@@ -1,4 +1,3 @@
-![Profile cover](img/1500x500.jpg)
 
 <h1 align="center">Doomsday Come</h1> 
 
@@ -16,6 +15,6 @@ Beyond my studies, I build and program things simply because I love coding from 
 
 ## Skills
 
-## contribute
+## Contributions
 
-## Contact
+## Contacts
