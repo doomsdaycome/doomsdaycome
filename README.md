@@ -25,10 +25,10 @@ I am currently an Information Technology student at the [University of Science](
   <br>
 
   - **15/07/2007**: Born
-  - **02/03/2022**: 🥈 **`2nd Prize`** - *Province Youth and Children Creativity Contest*
+  - **02/03/2022**: 🥈 **`2nd Prize`** - *Province's Youth and Children Creativity Contest*
   - **29/05/2022**: Graduated Secondary School
-  - **21/01/2024**: 🥇 **`1st Prize`** - *City Science and Engineering Fair*
-  - **28/02/2025**: 🥉 **`3rd Prize`** - *City Excellent Students in Information Technology Competition*
+  - **21/01/2024**: 🥇 **`1st Prize`** - *City's Science and Engineering Fair*
+  - **28/02/2025**: 🥉 **`3rd Prize`** - *City's Excellent Students in Information Technology Competition*
   - **01/06/2025**:  Graduated High School
   - **15/08/2025**:  Enrolled at University of Science via **`Priority Admission`** - **`Score: 29.37`**
 
