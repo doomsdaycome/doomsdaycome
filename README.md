@@ -6,7 +6,7 @@
 
 <p align="center">Jacob Kolinski — Phạm Bạch Đăng Khoa</p>
 
-> *Because of a lie. An end never existed. We long since strode into THEIR shadow, each step forward one that we can never walk back...until the last blade (Life) is forged into... "Naught".*
+> *Because of a lie. An end never existed. We long since strode into THEIR shadow, each step forward one that we can never walk back... until the last blade (Life) is forged into... "Naught".*
 
 <p align="center"><i>Come to Me, Realm of the Dead. Come to Me, Flame of Self-Annihillation.</i></p>
 
